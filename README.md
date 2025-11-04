@@ -22,10 +22,3 @@ Simple single-page app combining Weather, Currency Converter, and Motivational Q
 
 Open http://localhost:5173
 
-## Deploy
-- Deploy backend on Render/Heroku/Railway. Set envs.
-- Deploy frontend on Vercel. Set VITE_API_BASE to backend URL.
-
-## Demo
-- Provide public URL and 2–3 minute walkthrough video showing each module.
-
